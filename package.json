@@ -1,0 +1,26 @@
+{
+  "name": "facebook",
+  "description": "Facebook client for Node.js",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.php" 
+    } 
+  ],
+  "author": "Mathieu Fosse <mathieu.fosse@gmail.com> (http://www.mathieufosse.com)",
+  "main": "index"
+  "directories": {
+    "lib": "./lib"
+  },
+  "devDependencies": {
+     "coffee-script": "*"
+   },
+
+  "engines": {
+    "node": ">= 0.4.7"
+  }
+}
