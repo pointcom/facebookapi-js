@@ -1,6 +1,6 @@
 {
-  "name": "facebook",
-  "description": "Facebook client for Node.js",
+  "name": "facebookapi",
+  "description": "Facebook API client for Node.js",
   "version": "0.0.0",
   "repository": {
     "url": ""
